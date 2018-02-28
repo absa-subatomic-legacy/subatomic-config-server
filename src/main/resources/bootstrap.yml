@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    kubernetes:
+      secrets:
+        enableApi: true
+  application:
+    name: subatomic-config-server
