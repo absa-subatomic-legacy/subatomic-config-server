@@ -1,4 +1,4 @@
-# Subatomic Config Server
+# Subatomic Config Server [![Build Status](https://travis-ci.org/absa-subatomic/subatomic-config-server.svg?branch=master)](https://travis-ci.org/absa-subatomic/subatomic-config-server) [![codecov](https://codecov.io/gh/absa-subatomic/subatomic-config-server/branch/master/graph/badge.svg)](https://codecov.io/gh/absa-subatomic/subatomic-config-server) [![Maintainability](https://api.codeclimate.com/v1/badges/d77f818fbb9db3820d36/maintainability)](https://codeclimate.com/github/absa-subatomic/subatomic-config-server/maintainability)
 
 A [Spring Cloud Config](https://cloud.spring.io/spring-cloud-config/)
 implementation with added caching functionality.
