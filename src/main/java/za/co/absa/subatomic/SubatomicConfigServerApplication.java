@@ -7,7 +7,7 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 
 @SpringBootApplication
 @EnableConfigServer
-@EnableCaching(proxyTargetClass = true)
+@EnableCaching
 public class SubatomicConfigServerApplication {
 
     public static void main(final String[] args) {
