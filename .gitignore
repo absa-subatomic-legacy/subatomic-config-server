@@ -261,3 +261,8 @@ local.properties
 # Local Spring config
 atomist-registration.json
 application-local.yml
+
+# VSCode Java support
+###
+
+.sts4-cache
