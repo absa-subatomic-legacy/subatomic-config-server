@@ -7,6 +7,7 @@ spring:
         git:
           uri: ssh://git@bitbucket.subatomic.local:30999/tp/test-configuration.git
           searchPaths: '{application}'
+          refreshRate: 0 # Change this to refresh every X seconds
   cache:
     type: none
 
